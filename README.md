@@ -25,22 +25,13 @@ This project is a RESTful API built with Flask for managing products in an e-com
     ```
 
 ## Usage
-
-1. Set up environment variables (if needed):
-
-    ```bash
-    cp .env.example .env
-    ```
-
-    Edit the `.env` file and add your MongoDB connection URI.
-
-2. Run the Flask application:
+1. Run the Flask application:
 
     ```bash
     python run.py
     ```
 
-3. Access the API endpoints using a REST client such as Postman.
+2. Access the API endpoints using a REST client such as Postman.
 
 ## API Documentation
 
