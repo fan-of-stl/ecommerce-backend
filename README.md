@@ -9,7 +9,7 @@ This project is a RESTful API built with Flask for managing products in an e-com
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/ecommerce.git
+    git clone https://github.com/fan-of-stl/ecommerce-backend.git
     ```
 
 2. Navigate to the project directory:
@@ -18,25 +18,7 @@ This project is a RESTful API built with Flask for managing products in an e-com
     cd ecommerce
     ```
 
-3. Create a virtual environment (optional but recommended):
-
-    ```bash
-    python -m venv venv
-    ```
-
-4. Activate the virtual environment:
-
-    On Windows:
-    ```bash
-    venv\Scripts\activate
-    ```
-
-    On macOS and Linux:
-    ```bash
-    source venv/bin/activate
-    ```
-
-5. Install dependencies:
+3. Install dependencies:
 
     ```bash
     pip install -r requirements.txt
